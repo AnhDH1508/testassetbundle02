@@ -1,7 +1,7 @@
-System.register("bundle://testprebundle/_virtual/testprebundle",[],(function(){return{execute:function(){}}}));
+System.register("bundle://test0310/_virtual/test0310",[],(function(){return{execute:function(){}}}));
 
 (function(r) {
-  r('virtual:///prerequisite-imports/testprebundle', 'bundle://testprebundle/_virtual/testprebundle'); 
+  r('virtual:///prerequisite-imports/test0310', 'bundle://test0310/_virtual/test0310'); 
 })(function(mid, cid) {
     System.register(mid, [cid], function (_export, _context) {
     return {
